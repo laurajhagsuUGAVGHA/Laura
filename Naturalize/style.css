@@ -1,10 +1,25 @@
-body{
-    background-color: rgb(194, 217, 194);
+body {
+    background-color: rgb(219, 237, 215);
 }
-img{
+
+img {
     width: 450px;
     height: 350px;
 }
-div{
+
+div {
     text-align: center;
+}
+
+h1 {
+    background-color: rgb(197, 232, 194);
+    width: 2100px;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-items: center;
+    text-align: center;
+
 }
