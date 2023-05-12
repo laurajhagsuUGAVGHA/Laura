@@ -1,0 +1,46 @@
+body{
+    background-color: aquamarine;
+    /*Muda a cor de fundo*/
+}
+h1 {
+    color: blueviolet; /*Cor do Texto*/
+    text-align: center;
+}
+
+
+p {
+   font-family: 'Times New Roman', Times, serif;text-align: justify;
+   /*Troca a fonte do texto*/
+   text-align: justify;
+   */Deixa o texto justificado*/
+}
+
+
+.texto {
+    color: darkgreen;
+}
+
+#titulo { /*Uso # pra chamar um ID*/
+    color: darkturquoise;
+}
+
+a{
+    text-decoration: none;
+    font-size: 50px; /*Muda o tamanho do texto*/
+    background-color: aqua;
+    color:black;
+    border-radius: 7px; /*Arredonda a borda*/
+    border-color: blueviolet; /*Color da borda*/
+    border-style: solid; /*Estilo da borda*/
+    border-width: 3px; /*Largura da borda*/
+    padding: 5px 10px;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+div {
+    text-align: center;
+}

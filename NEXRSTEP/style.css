@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(236, 205, 213);
+}
+
+h1{
+    text-align: center;
+   color: darksalmon;
+}
+img{
+    width: 300px;
+    height: 180px;
+}
+div{
+    text-align: center;
+}
+h2{
+    text-decoration:
+    color lightcoral;
+}
