@@ -1,0 +1,21 @@
+.box {
+    background-color: aqua;
+    width: 400px;
+    height: 400px;
+}
+.content-box {
+    background-color: rgb(255, 0, 149);
+    width: 400px;
+    height: 200px;
+    border: 10px solid black;
+    padding: 5px;
+    box-sizing: content-box;
+}
+
+.borden-box {
+    width: 400px;
+    height: 200px;
+    background-color: yellow;
+    border: 10px ;
+}
+    
